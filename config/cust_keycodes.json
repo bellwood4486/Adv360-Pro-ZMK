@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"RALT(F7)"
+		],
+		"description": "RALT(F7)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
