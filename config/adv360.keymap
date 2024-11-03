@@ -64,7 +64,7 @@
  &trans  &trans  &trans    &trans     &trans  &trans               &none                                                        &none  &trans    &trans    &trans  &trans   &trans  &kp F12
  &trans  &trans  &trans    &trans     &trans  &trans              &trans   &trans  &trans                  &trans    &trans    &trans  &trans  &kp LGUI  &kp RGUI  &trans   &trans   &trans
  &trans  &trans  &trans    &trans     &trans  &trans               &none    &none  &trans   &none   &none  &trans     &none     &none  &trans    &trans    &trans  &trans   &trans   &trans
- &trans  &trans  &trans  &kp LEFT  &kp RIGHT                    &kp LGUI  &kp DEL  &trans                  &trans  &kp LGUI  &kp LGUI            &kp UP  &kp DOWN  &trans   &trans   &trans
+ &trans  &trans  &trans  &kp LEFT  &kp RIGHT                    &kp LGUI  &kp DEL  &trans                  &trans  &kp LGUI  &kp RGUI            &kp UP  &kp DOWN  &trans   &trans   &trans
             >;
         };
 
